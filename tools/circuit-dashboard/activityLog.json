@@ -1,0 +1,108 @@
+[
+    {
+        "timestamp":  "2026-06-27T14:43:00-04:00",
+        "type":  "site_fix",
+        "summary":  "Updated App.jsx: replaced risky claims with safer copy",
+        "details":  "Removed overpromises (same-day, 3-day, lifetime, plug-and-play, 30-min install, $109.99 language). Pushed fitment-first ordering."
+    },
+    {
+        "timestamp":  "2026-06-27T14:44:00-04:00",
+        "type":  "memory",
+        "summary":  "Updated MEMORY.md and daily memory with funnel metrics and business context"
+    },
+    {
+        "timestamp":  "2026-06-27T14:47:00-04:00",
+        "type":  "research",
+        "summary":  "Installed yt-dlp and gallery-dl for public video/gallery metadata research",
+        "details":  "Created projects/carplayradiohub-site/research-tools/.venv with yt-dlp==2026.6.9 and gallery-dl==1.32.4."
+    },
+    {
+        "timestamp":  "2026-06-27T15:03:00-04:00",
+        "type":  "config",
+        "summary":  "Scheduled carplay-loose-ends-reminder for tomorrow 11am ET"
+    },
+    {
+        "timestamp":  "2026-06-27T17:17:00-04:00",
+        "type":  "business",
+        "summary":  "Confirmed offer terms: $109.99 sale, $150 regular, backup camera included, same-day shipping, 30-day replacement"
+    },
+    {
+        "timestamp":  "2026-06-27T17:48:00-04:00",
+        "type":  "mcp_setup",
+        "summary":  "Installed Microsoft Playwright MCP in both Codex homes"
+    },
+    {
+        "timestamp":  "2026-06-27T18:22:00-04:00",
+        "type":  "mcp_setup",
+        "summary":  "Created operator-workspace with browser-qa, market-watch, content-lab, funnel-ops lanes"
+    },
+    {
+        "timestamp":  "2026-06-27T18:32:00-04:00",
+        "type":  "site_qa",
+        "summary":  "Used Playwright MCP to QA site: fixed checkout copy, added favicon, fixed mobile fitment UX bug"
+    },
+    {
+        "timestamp":  "2026-06-27T18:35:00-04:00",
+        "type":  "mcp_setup",
+        "summary":  "Installed Chrome DevTools MCP in both Codex homes"
+    },
+    {
+        "timestamp":  "2026-06-27T19:43:00-04:00",
+        "type":  "tool",
+        "summary":  "Built Circuit Dashboard at http://127.0.0.1:8081 — visual activity tracker for Frank"
+    },
+    {
+        "summary":  "GitHub token configured, repo created and code pushed",
+        "timestamp":  "2026-06-28T02:00:00-04:00",
+        "details":  "Repo: tornadomk4/carplay-radio-hub. Token stored in user env var GH_TOKEN.",
+        "type":  "config"
+    },
+    {
+        "summary":  "Ollama fallback model configured in OpenClaw",
+        "timestamp":  "2026-06-28T02:05:00-04:00",
+        "details":  "Model: ollama/qwen3.5-2b:q4_k_m. Added to fallbacks list.",
+        "type":  "config"
+    },
+    {
+        "summary":  "Installed gog, himalaya, mcporter",
+        "timestamp":  "2026-06-28T02:10:00-04:00",
+        "details":  "gog v0.31.1, himalaya v1.2.0",
+        "type":  "tool"
+    },
+    {
+        "summary":  "PM2 installed, dashboard process managed",
+        "timestamp":  "2026-06-28T02:28:00-04:00",
+        "details":  "Dashboard now auto-restarts via PM2. Fixed syntax error in server.js.",
+        "type":  "tool"
+    },
+    {
+        "summary":  "Full site overhaul: testimonials, gallery, trust badges, accordion FAQ",
+        "timestamp":  "2026-06-28T02:30:00-04:00",
+        "details":  "Sub-agent working on site improvements to App.jsx",
+        "type":  "memory"
+    },
+    {
+        "summary":  "Content calendar reminder cron set up",
+        "timestamp":  "2026-06-28T02:32:00-04:00",
+        "details":  "Every Monday at 10am ET, generates weekly content plan",
+        "type":  "config"
+    },
+    {
+        "summary":  "Self-check script created",
+        "timestamp":  "2026-06-28T02:35:00-04:00",
+        "details":  "tools/self-check.ps1 verifies all services, ports, packages",
+        "type":  "skill"
+    },
+    {
+        "summary":  "AGENTS.md updated with full tool inventory and service status",
+        "timestamp":  "2026-06-28T02:40:00-04:00",
+        "details":  "Added CLI tools table, services table, key file locations",
+        "type":  "config"
+    },
+    {
+        "summary":  "TOOLS.md updated with all new tool paths and service addresses",
+        "timestamp":  "2026-06-28T02:42:00-04:00",
+        "details":  "Full inventory of CLI tools, services, GitHub, Philips Hue, key files",
+        "type":  "memory"
+    }
+]

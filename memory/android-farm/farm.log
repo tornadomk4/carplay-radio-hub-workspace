@@ -1,0 +1,8 @@
+2026-06-28 02:57:26 | === Android Farm Controller Started ===
+2026-06-28 02:57:26 | Found 1 device(s): emulator-5554
+2026-06-28 02:57:26 | Free RAM: 1.6GB
+2026-06-28 02:57:27 | circuit_farm_1 (emulator-5554) is online
+2026-06-28 02:57:27 | circuit_farm_2 process exists but not booted, waiting...
+2026-06-28 02:58:27 | WARNING: emulator-5556 failed to boot in 60s
+2026-06-28 02:58:27 | === Farm Status: 1 device(s) online ===
+2026-06-28 02:58:27 |   emulator-5554 : Android 14, sdk_gphone64_x86_64

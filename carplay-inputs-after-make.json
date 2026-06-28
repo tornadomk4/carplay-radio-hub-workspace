@@ -1,0 +1,308 @@
+[
+  {
+    "i": 0,
+    "tag": "A",
+    "text": "🚗\nCarPlay Radio Hub",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#home",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 1,
+    "tag": "A",
+    "text": "About Me",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#about",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 2,
+    "tag": "A",
+    "text": "Products",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#products",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 3,
+    "tag": "A",
+    "text": "Specs",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#specs",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 4,
+    "tag": "A",
+    "text": "Checkout",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#checkout",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 5,
+    "tag": "A",
+    "text": "FAQ",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#faq",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 6,
+    "tag": "A",
+    "text": "Policies",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#policies",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 7,
+    "tag": "A",
+    "text": "Gallery",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#gallery",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 8,
+    "tag": "A",
+    "text": "Contact",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#contact",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 9,
+    "tag": "A",
+    "text": "Order Kit",
+    "placeholder": null,
+    "href": "https://buy.stripe.com/5kQ14farE6P3h1nfzQfAc01",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 10,
+    "tag": "A",
+    "text": "Check Fitment",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#fitment-checker",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 11,
+    "tag": "A",
+    "text": "Checkout",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#checkout",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 12,
+    "tag": "A",
+    "text": "💬 Questions",
+    "placeholder": null,
+    "href": "https://instagram.com/tornado_mk4",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 13,
+    "tag": "A",
+    "text": "Visit @tornado_mk4",
+    "placeholder": null,
+    "href": "https://instagram.com/tornado_mk4",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 14,
+    "tag": "A",
+    "text": "Go to Checkout",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#checkout",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 15,
+    "tag": "A",
+    "text": "Check your fitment below",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#fitment-checker",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 16,
+    "tag": "A",
+    "text": "Pay through Stripe",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#checkout",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 17,
+    "tag": "A",
+    "text": "Questions? DM @tornado_mk4",
+    "placeholder": null,
+    "href": "https://instagram.com/tornado_mk4",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 18,
+    "tag": "INPUT",
+    "text": "2005",
+    "placeholder": "Example: 2008",
+    "disabled": false,
+    "id": "year",
+    "name": ""
+  },
+  {
+    "i": 19,
+    "tag": "INPUT",
+    "text": "Volkswagen",
+    "placeholder": "Start typing: Volkswagen, Honda, Ford, Saab...",
+    "disabled": false,
+    "id": "make",
+    "name": ""
+  },
+  {
+    "i": 20,
+    "tag": "BUTTON",
+    "text": "Volkswagen\nSelect",
+    "placeholder": null,
+    "disabled": false,
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 21,
+    "tag": "INPUT",
+    "text": "",
+    "placeholder": "Select or type a Volkswagen model",
+    "disabled": false,
+    "id": "model",
+    "name": ""
+  },
+  {
+    "i": 22,
+    "tag": "BUTTON",
+    "text": "Check Fitment",
+    "placeholder": null,
+    "disabled": false,
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 23,
+    "tag": "A",
+    "text": "Step 2: Secure Stripe Checkout",
+    "placeholder": null,
+    "href": "https://buy.stripe.com/5kQ14farE6P3h1nfzQfAc01",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 24,
+    "tag": "A",
+    "text": "Email Support",
+    "placeholder": null,
+    "href": "mailto:tornado.jetta@gmail.com",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 25,
+    "tag": "A",
+    "text": "DM @tornado_mk4",
+    "placeholder": null,
+    "href": "https://instagram.com/tornado_mk4",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 26,
+    "tag": "A",
+    "text": "Email Support",
+    "placeholder": null,
+    "href": "mailto:tornado.jetta@gmail.com",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 27,
+    "tag": "A",
+    "text": "DM @tornado_mk4",
+    "placeholder": null,
+    "href": "https://instagram.com/tornado_mk4",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 28,
+    "tag": "A",
+    "text": "Go to Fitment Checker",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#fitment-checker",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 29,
+    "tag": "A",
+    "text": "Go to Checkout",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#checkout",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 30,
+    "tag": "A",
+    "text": "Email Support",
+    "placeholder": null,
+    "href": "mailto:tornado.jetta@gmail.com",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 31,
+    "tag": "A",
+    "text": "DM @tornado_mk4",
+    "placeholder": null,
+    "href": "https://instagram.com/tornado_mk4",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 32,
+    "tag": "A",
+    "text": "Check Fitment",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#fitment-checker",
+    "id": "",
+    "name": ""
+  },
+  {
+    "i": 33,
+    "tag": "A",
+    "text": "Order Kit",
+    "placeholder": null,
+    "href": "http://127.0.0.1:4173/#checkout",
+    "id": "",
+    "name": ""
+  }
+]

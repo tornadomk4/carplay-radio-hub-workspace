@@ -1,0 +1,404 @@
+- main [ref=e3]:
+  - navigation [ref=e5]:
+    - link "🚗 CarPlay Radio Hub" [ref=e6] [cursor=pointer]:
+      - /url: "#home"
+      - generic [ref=e7]: 🚗
+      - text: CarPlay Radio Hub
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - generic [ref=e13]: Fitment-first ordering for double DIN radio kits
+      - heading "Upgrade your car with Apple CarPlay & Android Auto." [level=1] [ref=e14]
+      - paragraph [ref=e15]: Modern Android 10 touchscreen radio kits with Apple CarPlay, Android Auto, Bluetooth, USB, micro SD, custom wallpapers, backlit button lighting, and a backup camera included. Enter your vehicle info first so the right radio package, bezel, and harness can be matched before checkout.
+      - generic [ref=e16]:
+        - link "Check Fitment" [ref=e17] [cursor=pointer]:
+          - /url: "#fitment-checker"
+        - link "Checkout" [ref=e18] [cursor=pointer]:
+          - /url: "#checkout"
+        - link "💬 Questions" [ref=e19] [cursor=pointer]:
+          - /url: https://instagram.com/tornado_mk4
+      - generic [ref=e20]:
+        - generic [ref=e21]: Apple CarPlay
+        - generic [ref=e22]: Android Auto
+        - generic [ref=e23]: Android 10
+        - generic [ref=e24]: Bluetooth 5.1
+        - generic [ref=e25]: Backup Camera Included
+        - generic [ref=e26]: External Microphone
+        - generic [ref=e27]: USB Input
+        - generic [ref=e28]: Micro SD Support
+        - generic [ref=e29]: Mirror Link
+        - generic [ref=e30]: Custom Wallpapers
+        - generic [ref=e31]: Custom Button Lighting
+        - generic [ref=e32]: Remote Included
+        - generic [ref=e33]: Gaming Console Compatible
+        - generic [ref=e34]: RCA Audio Expansion
+        - generic [ref=e35]: Fitment Checked
+    - generic [ref=e36]:
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - paragraph [ref=e41]: Now Playing
+            - paragraph [ref=e42]: Wireless Drive Mix
+          - generic [ref=e43]: CarPlay
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - generic [ref=e46]: 📱
+            - paragraph [ref=e47]: Maps, music, calls, and messages on screen
+          - generic [ref=e48]:
+            - generic [ref=e49]: 🎵
+            - paragraph [ref=e50]: Bluetooth audio with easy controls
+          - generic [ref=e51]:
+            - generic [ref=e52]: 📷
+            - paragraph [ref=e53]: Backup camera included in the package
+          - generic [ref=e54]:
+            - generic [ref=e55]: 💡
+            - paragraph [ref=e56]: Custom wallpapers and button lighting
+      - generic [ref=e57]:
+        - paragraph [ref=e58]: Price
+        - paragraph [ref=e59]: $109.99
+  - generic [ref=e62]:
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - paragraph [ref=e67]: Photo Placeholder
+        - heading "Add a picture of you with your MK4 here." [level=3] [ref=e68]
+        - paragraph [ref=e69]: This spot is made for a real photo of you and the car so the site feels personal, authentic, and connected to your Instagram page.
+      - generic [ref=e70]:
+        - paragraph [ref=e71]: Suggested image
+        - paragraph [ref=e72]: You standing next to the Tornado Red MK4 Jetta GLI, or a clean rolling/parking shot with you in frame.
+    - generic [ref=e73]:
+      - paragraph [ref=e74]: About Me
+      - heading "Built by someone who is actually in the car scene." [level=2] [ref=e75]
+      - paragraph [ref=e76]: I’m a recent college graduate, a European car enthusiast, and the person behind @tornado_mk4 on Instagram. A lot of my content is centered around my Tornado Red MK4 Volkswagen Jetta GLI, car projects, clean upgrades, and the kind of small details that make older cars feel modern again.
+      - paragraph [ref=e77]: I started offering these radios because a simple Apple CarPlay and Android Auto upgrade can completely change the way an older interior feels. Whether you drive a Volkswagen, BMW, Honda, truck, daily, project car, or something oddball, the goal is to make the process simple, affordable, and easy to understand.
+      - paragraph [ref=e78]: Outside of MK4 content, I have a real passion for European cars, bikes, and enthusiast builds in general. This site is meant to feel less like a random product page and more like buying from someone who understands why these upgrades matter.
+      - generic [ref=e79]:
+        - generic [ref=e80]: ✅ Recent college graduate
+        - generic [ref=e81]: ✅ European car enthusiast
+        - generic [ref=e82]: ✅ MK4 Volkswagen content creator
+        - generic [ref=e83]: ✅ Into cars, bikes, and clean OEM+ style upgrades
+      - generic [ref=e84]:
+        - link "Visit @tornado_mk4" [ref=e85] [cursor=pointer]:
+          - /url: https://instagram.com/tornado_mk4
+        - link "Go to Checkout" [ref=e86] [cursor=pointer]:
+          - /url: "#checkout"
+  - generic [ref=e87]:
+    - generic [ref=e88]:
+      - generic [ref=e89]:
+        - paragraph [ref=e90]: Product Features
+        - heading "Everything drivers want in a modern touchscreen radio." [level=2] [ref=e91]
+        - paragraph [ref=e92]: "A clean upgrade for older interiors with the everyday features people actually use: maps, music, calls, camera support, external microphone, lighting customization, and flexible media options."
+      - generic [ref=e93]:
+        - paragraph [ref=e94]: Radio package
+        - paragraph [ref=e95]: $109.99
+        - generic [ref=e96]:
+          - link "Check your fitment below" [ref=e97] [cursor=pointer]:
+            - /url: "#fitment-checker"
+          - link "Pay through Stripe" [ref=e98] [cursor=pointer]:
+            - /url: "#checkout"
+    - generic [ref=e99]:
+      - article [ref=e100]:
+        - generic [ref=e101]: 📱
+        - heading "Apple CarPlay" [level=3] [ref=e102]
+        - paragraph [ref=e103]: Use maps, music, calls, and messages from your iPhone directly on the touchscreen display.
+      - article [ref=e104]:
+        - generic [ref=e105]: 🤖
+        - heading "Android Auto" [level=3] [ref=e106]
+        - paragraph [ref=e107]: Connect your Android phone for navigation, music apps, hands-free calling, and everyday driving tools.
+      - article [ref=e108]:
+        - generic [ref=e109]: 🧩
+        - heading "Android 10 System" [level=3] [ref=e110]
+        - paragraph [ref=e111]: Runs on Android 10, giving the radio a familiar app-style interface with flexible settings and features.
+      - article [ref=e112]:
+        - generic [ref=e113]: 🎵
+        - heading "Bluetooth Audio" [level=3] [ref=e114]
+        - paragraph [ref=e115]: Stream music wirelessly and take hands-free calls without messy extra cables.
+      - article [ref=e116]:
+        - generic [ref=e117]: 📷
+        - heading "Backup Camera Included" [level=3] [ref=e118]
+        - paragraph [ref=e119]: Comes with a 12 LED rear-view camera for a cleaner and safer reversing setup.
+      - article [ref=e120]:
+        - generic [ref=e121]: 🎙️
+        - heading "External Microphone" [level=3] [ref=e122]
+        - paragraph [ref=e123]: Includes an external microphone for clearer hands-free calls compared to relying only on the built-in mic.
+      - article [ref=e124]:
+        - generic [ref=e125]: 🔌
+        - heading "USB Input" [level=3] [ref=e126]
+        - paragraph [ref=e127]: Use USB for charging, music playback, compatible files, and simple everyday connection options.
+      - article [ref=e128]:
+        - generic [ref=e129]: 💾
+        - heading "Micro SD Support" [level=3] [ref=e130]
+        - paragraph [ref=e131]: Use a micro SD card for extra media options, files, and compatible storage features.
+      - article [ref=e132]:
+        - generic [ref=e133]: 🎮
+        - heading "Gaming Console Compatible" [level=3] [ref=e134]
+        - paragraph [ref=e135]: Supports compatible external video input setups, making it possible to connect certain gaming consoles.
+      - article [ref=e136]:
+        - generic [ref=e137]: 🖼️
+        - heading "Custom Wallpapers" [level=3] [ref=e138]
+        - paragraph [ref=e139]: Personalize the screen with custom backgrounds to match your car, brand, or interior style.
+      - article [ref=e140]:
+        - generic [ref=e141]: 💡
+        - heading "Custom Button Lighting" [level=3] [ref=e142]
+        - paragraph [ref=e143]: Adjust the backlit button colors to better match your dashboard, interior lighting, or personal style.
+      - article [ref=e144]:
+        - generic [ref=e145]: 🎛️
+        - heading "Remote Control Included" [level=3] [ref=e146]
+        - paragraph [ref=e147]: Control basic radio functions with the included remote for simple passenger use.
+    - generic [ref=e149]:
+      - generic [ref=e150]:
+        - paragraph [ref=e151]: Instant Fitment Check
+        - heading "Check your vehicle fitment." [level=3] [ref=e152]
+        - paragraph [ref=e153]: Enter your year, make, and model. The menu includes a wide mix of domestic, import, European, older, newer, common, and enthusiast vehicles.
+        - generic [ref=e154]:
+          - generic [ref=e155]: ✅ Extensive make and model suggestions
+          - generic [ref=e156]: ✅ Common, rare, foreign, and domestic platforms
+          - generic [ref=e157]: ✅ Backup camera included with package
+        - link "Questions? DM @tornado_mk4" [ref=e158] [cursor=pointer]:
+          - /url: https://instagram.com/tornado_mk4
+      - generic [ref=e159]:
+        - generic [ref=e160]:
+          - generic [ref=e161]:
+            - generic [ref=e162]: Year
+            - textbox "Year" [ref=e163]:
+              - /placeholder: "Example: 2008"
+          - generic [ref=e164]:
+            - generic [ref=e165]: Make
+            - textbox "Make" [ref=e166]:
+              - /placeholder: "Start typing: Volkswagen, Honda, Ford, Saab..."
+          - generic [ref=e167]:
+            - generic [ref=e168]: Model
+            - textbox "Model" [disabled] [ref=e169]:
+              - /placeholder: Choose a make first
+          - button "Check Fitment" [ref=e170] [cursor=pointer]
+        - paragraph [ref=e171]: "Fitment note: most standard double DIN vehicles can be supported, but exact parts can vary by vehicle. Submit your year, make, and model before checkout."
+  - generic [ref=e172]:
+    - generic [ref=e173]:
+      - paragraph [ref=e174]: Product Details
+      - heading "Built for a clean, modern double DIN upgrade." [level=2] [ref=e175]
+      - paragraph [ref=e176]: This package is designed around a universal double DIN touchscreen radio with wired and wireless phone connection options, Bluetooth calling, mirror link support, rear camera support, and expansion outputs for future audio upgrades. Vehicle-specific parts are matched after the customer submits year, make, and model.
+    - generic [ref=e177]:
+      - generic [ref=e179]:
+        - generic [ref=e180]:
+          - paragraph [ref=e181]: Screen Size
+          - paragraph [ref=e182]: 7-inch touchscreen
+        - generic [ref=e183]:
+          - paragraph [ref=e184]: Install Size
+          - paragraph [ref=e185]: Universal double DIN, 178mm × 100mm / 7.01in × 3.94in
+        - generic [ref=e186]:
+          - paragraph [ref=e187]: Phone Connection
+          - paragraph [ref=e188]: Wired / wireless Apple CarPlay and Android Auto
+        - generic [ref=e189]:
+          - paragraph [ref=e190]: Bluetooth
+          - paragraph [ref=e191]: Bluetooth 5.1 with hands-free calling and music streaming
+        - generic [ref=e192]:
+          - paragraph [ref=e193]: Camera
+          - paragraph [ref=e194]: 12 LED rear-view backup camera included
+        - generic [ref=e195]:
+          - paragraph [ref=e196]: Mirror Link
+          - paragraph [ref=e197]: Wired phone mirroring for compatible iOS and Android devices
+        - generic [ref=e198]:
+          - paragraph [ref=e199]: Audio Expansion
+          - paragraph [ref=e200]: RCA outputs for amplifier, subwoofer, and monitor connections
+        - generic [ref=e201]:
+          - paragraph [ref=e202]: Included Items
+          - paragraph [ref=e203]: Radio, rear camera, camera cable, remote, harness, brackets, screws, and manual
+      - generic [ref=e204]:
+        - paragraph [ref=e205]: What Comes In The Box
+        - heading "Complete radio package." [level=3] [ref=e206]
+        - paragraph [ref=e207]: The package includes the main radio and the key accessories needed for the setup. Vehicle-specific dash kits, trim pieces, or extra wiring may vary depending on the car.
+        - generic [ref=e208]:
+          - generic [ref=e209]:
+            - generic [ref=e210]: ✓
+            - text: Upgraded double DIN touchscreen radio
+          - generic [ref=e211]:
+            - generic [ref=e212]: ✓
+            - text: 12 LED rear-view backup camera
+          - generic [ref=e213]:
+            - generic [ref=e214]: ✓
+            - text: Backup camera cable
+          - generic [ref=e215]:
+            - generic [ref=e216]: ✓
+            - text: Remote control
+          - generic [ref=e217]:
+            - generic [ref=e218]: ✓
+            - text: Wiring harness
+          - generic [ref=e219]:
+            - generic [ref=e220]: ✓
+            - text: Two mounting brackets
+          - generic [ref=e221]:
+            - generic [ref=e222]: ✓
+            - text: Four screws
+          - generic [ref=e223]:
+            - generic [ref=e224]: ✓
+            - text: English user manual
+  - generic [ref=e225]:
+    - generic [ref=e226]:
+      - paragraph [ref=e227]: Checkout
+      - heading "Submit details, then pay securely." [level=2] [ref=e228]
+      - paragraph [ref=e229]: Submit your vehicle details first, then complete secure payment through Stripe. This keeps the order matched to the right car before the package is prepared.
+    - generic [ref=e230]:
+      - generic [ref=e231]:
+        - paragraph [ref=e232]: Radio Package
+        - heading "CarPlay / Android Auto Radio Package" [level=3] [ref=e233]
+        - paragraph [ref=e234]: Includes the 7-inch touchscreen radio, 12 LED backup camera, backup camera cable, remote control, wiring harness, mounting brackets, screws, Android 10 system, Bluetooth 5.1, USB, micro SD support, custom wallpapers, and custom button lighting.
+        - generic [ref=e235]:
+          - paragraph [ref=e236]: Sale price
+          - paragraph [ref=e237]: $109.99
+          - paragraph [ref=e238]: Regular price $150. Fitment details are collected before fulfillment.
+        - generic [ref=e239]:
+          - paragraph [ref=e240]: Vehicle-specific order matching
+          - paragraph [ref=e241]: Submit your year, make, and model first so the right radio package and vehicle-specific parts can be matched before fulfillment. Backup camera is included.
+      - generic [ref=e242]:
+        - paragraph [ref=e243]: Order & Payment
+        - heading "Finish your order." [level=3] [ref=e244]
+        - paragraph [ref=e245]: First, submit the order details form. Then complete secure payment through Stripe. Jotform collects fitment details while Stripe handles payment.
+        - generic [ref=e246]:
+          - paragraph [ref=e247]: "Step 1: Submit order details"
+          - iframe [ref=e248]:
+            
+        - 'link "Step 2: Secure Stripe Checkout" [ref=e249] [cursor=pointer]':
+          - /url: https://buy.stripe.com/5kQ14farE6P3h1nfzQfAc01
+        - paragraph [ref=e250]: Order details are collected through Jotform. Secure payment is powered by Stripe and opens in a new tab.
+        - generic [ref=e251]:
+          - generic [ref=e252]:
+            - generic [ref=e253]: "01"
+            - generic [ref=e254]:
+              - paragraph [ref=e255]: Check fitment
+              - paragraph [ref=e256]: Enter your year, make, and model so the order starts with the right vehicle information.
+          - generic [ref=e257]:
+            - generic [ref=e258]: "02"
+            - generic [ref=e259]:
+              - paragraph [ref=e260]: Submit order details
+              - paragraph [ref=e261]: Send your vehicle and contact details so the correct radio package, bezel, and harness can be matched to the order.
+          - generic [ref=e262]:
+            - generic [ref=e263]: "03"
+            - generic [ref=e264]:
+              - paragraph [ref=e265]: Complete secure payment
+              - paragraph [ref=e266]: Stripe handles card payment securely after the order details are submitted.
+        - generic [ref=e267]:
+          - paragraph [ref=e268]: Order matching note
+          - paragraph [ref=e269]: Use the same name and email on the order form and Stripe checkout so your vehicle details can be matched to your payment.
+  - generic [ref=e270]:
+    - generic [ref=e271]:
+      - paragraph [ref=e272]: FAQ
+      - heading "Common questions before you order." [level=2] [ref=e273]
+      - paragraph [ref=e274]: Here are the main things customers usually want to know about fitment, shipping, installation, payment, and warranty support.
+    - generic [ref=e275]:
+      - article [ref=e276]:
+        - heading "Will this fit my car?" [level=3] [ref=e277]
+        - paragraph [ref=e278]: Our radios are made for standard double DIN radio openings. Use the fitment checker above to enter your year, make, and model before placing your order.
+      - article [ref=e279]:
+        - heading "Do I need a dash kit?" [level=3] [ref=e280]
+        - paragraph [ref=e281]: Most vehicles need a vehicle-specific bezel, dash kit, or harness adapter. The order form collects your vehicle info so the correct parts can be matched to your kit.
+      - article [ref=e282]:
+        - heading "Does it come with wiring?" [level=3] [ref=e283]
+        - paragraph [ref=e284]: The goal is to include the radio plus the vehicle-specific harness or adapter needed for a cleaner install. Some vehicles may still need minor wiring or trim work.
+      - article [ref=e285]:
+        - heading "Is installation included?" [level=3] [ref=e286]
+        - paragraph [ref=e287]: Installation is not included because products are shipped directly to customers. Many customers can handle the install themselves or have a local audio shop install it.
+      - article [ref=e288]:
+        - heading "How fast does it ship?" [level=3] [ref=e289]
+        - paragraph [ref=e290]: Orders are prepared after fitment details and payment are received. Delivery timing depends on the radio, vehicle-specific parts, and carrier timing.
+      - article [ref=e291]:
+        - heading "What if it does not work?" [level=3] [ref=e292]
+        - paragraph [ref=e293]: If your radio arrives defective or does not work properly, contact support within 30 days so the issue can be reviewed and the right replacement path can be handled.
+      - article [ref=e294]:
+        - heading "Is there a warranty?" [level=3] [ref=e295]
+        - paragraph [ref=e296]: A 30-day replacement policy is included for defective units. Physical damage, misuse, water damage, altered wiring, or modified units are not covered.
+      - article [ref=e297]:
+        - heading "How do I pay?" [level=3] [ref=e298]
+        - paragraph [ref=e299]: Payments are handled through Stripe secure checkout. Stripe lets customers pay online without sharing card details directly with us.
+      - article [ref=e300]:
+        - heading "How do I contact you after ordering?" [level=3] [ref=e301]
+        - paragraph [ref=e302]: You can contact us by email at tornado.jetta@gmail.com. For the fastest support, you can also message @tornado_mk4 on Instagram.
+    - generic [ref=e304]:
+      - generic [ref=e305]:
+        - heading "Still have a question?" [level=3] [ref=e306]
+        - paragraph [ref=e307]: Message @tornado_mk4 on Instagram or email tornado.jetta@gmail.com for product questions, warranty questions, order help, or anything specific to your car.
+      - generic [ref=e308]:
+        - link "Email Support" [ref=e309] [cursor=pointer]:
+          - /url: mailto:tornado.jetta@gmail.com
+        - link "DM @tornado_mk4" [ref=e310] [cursor=pointer]:
+          - /url: https://instagram.com/tornado_mk4
+  - generic [ref=e311]:
+    - generic [ref=e312]:
+      - paragraph [ref=e313]: Store Policies
+      - heading "Shipping, warranty, and support information." [level=2] [ref=e314]
+      - paragraph [ref=e315]: These policies explain how orders are shipped, how replacements work, what is covered, and how customers can get support after ordering.
+    - generic [ref=e316]:
+      - article [ref=e317]:
+        - generic [ref=e318]: 📦
+        - heading "Shipping Policy" [level=3] [ref=e319]
+        - paragraph [ref=e320]: Timely orders are prepared for same-day shipping, with delivery expected in 4 days or less after the order details and payment are received.
+      - article [ref=e321]:
+        - generic [ref=e322]: 🔁
+        - heading "30-Day Replacement Policy" [level=3] [ref=e323]
+        - paragraph [ref=e324]: If a radio arrives defective or does not work properly, contact us within 30 days so the issue can be reviewed and the right replacement path can be handled.
+      - article [ref=e325]:
+        - generic [ref=e326]: 🛡️
+        - heading "Support" [level=3] [ref=e327]
+        - paragraph [ref=e328]: Customers receive help with product questions, basic setup questions, and defect-related support. Physical damage, misuse, water damage, altered wiring, or modified units are not covered.
+      - article [ref=e329]:
+        - generic [ref=e330]: 🧰
+        - heading "Fitment & Installation" [level=3] [ref=e331]
+        - paragraph [ref=e332]: Radios are made for standard double DIN openings. Vehicle-specific bezels, dash kits, and harness adapters are matched to the order when needed. Installation is not included.
+      - article [ref=e333]:
+        - generic [ref=e334]: 💳
+        - heading "Payment Policy" [level=3] [ref=e335]
+        - paragraph [ref=e336]: Payments are handled through Stripe secure checkout. Order details are collected through Jotform so payment and fulfillment information can be matched before shipping.
+      - article [ref=e337]:
+        - generic [ref=e338]: 📩
+        - heading "Support Contact" [level=3] [ref=e339]
+        - paragraph [ref=e340]: For order questions, warranty questions, or product support, email tornado.jetta@gmail.com or message @tornado_mk4 on Instagram. Instagram is usually the fastest way to reach us.
+    - generic [ref=e342]:
+      - generic [ref=e343]:
+        - heading "Need help with an order?" [level=3] [ref=e344]
+        - paragraph [ref=e345]: Keep your order details, payment confirmation, and vehicle information ready when contacting support.
+      - generic [ref=e346]:
+        - link "Email Support" [ref=e347] [cursor=pointer]:
+          - /url: mailto:tornado.jetta@gmail.com
+        - link "DM @tornado_mk4" [ref=e348] [cursor=pointer]:
+          - /url: https://instagram.com/tornado_mk4
+  - generic [ref=e350]:
+    - paragraph [ref=e351]: How Ordering Works
+    - heading "A cleaner way to order a vehicle-specific radio kit." [level=2] [ref=e352]
+    - generic [ref=e353]:
+      - generic [ref=e354]:
+        - generic [ref=e355]: 🚗
+        - heading "Vehicle-specific fitment" [level=3] [ref=e356]
+        - paragraph [ref=e357]: Your year, make, and model are checked before the order is fulfilled.
+      - generic [ref=e358]:
+        - generic [ref=e359]: 🧩
+        - heading "Matched parts" [level=3] [ref=e360]
+        - paragraph [ref=e361]: The radio, bezel, dash kit, and harness are matched around your vehicle when needed.
+      - generic [ref=e362]:
+        - generic [ref=e363]: 💳
+        - heading "Secure checkout" [level=3] [ref=e364]
+        - paragraph [ref=e365]: Order details are collected separately from payment so the kit can be matched correctly.
+      - generic [ref=e366]:
+        - generic [ref=e367]: 📩
+        - heading "Real support" [level=3] [ref=e368]
+        - paragraph [ref=e369]: Questions can go straight to @tornado_mk4 before or after ordering.
+  - generic [ref=e371]:
+    - paragraph [ref=e372]: Gallery
+    - heading "Product photos and install examples." [level=2] [ref=e373]
+    - paragraph [ref=e374]: This section is ready for real product photos, package contents, screen examples, and before-and-after install shots. Real photos will make the site feel more trustworthy than stock images or generic mockups.
+  - generic [ref=e376]:
+    - paragraph [ref=e377]: Contact
+    - heading "Questions about the product or warranty?" [level=2] [ref=e378]
+    - paragraph [ref=e379]: Use the fitment checker above to check your vehicle and checkout to place your order. For product details, warranty questions, ordering help, or anything else, email tornado.jetta@gmail.com or message me on Instagram at @tornado_mk4.
+    - generic [ref=e380]:
+      - link "Go to Fitment Checker" [ref=e381] [cursor=pointer]:
+        - /url: "#fitment-checker"
+      - link "Go to Checkout" [ref=e382] [cursor=pointer]:
+        - /url: "#checkout"
+      - link "Email Support" [ref=e383] [cursor=pointer]:
+        - /url: mailto:tornado.jetta@gmail.com
+      - link "DM @tornado_mk4" [ref=e384] [cursor=pointer]:
+        - /url: https://instagram.com/tornado_mk4
+  - generic:
+    - generic [ref=e385]:
+      - link "Check Fitment" [ref=e386] [cursor=pointer]:
+        - /url: "#fitment-checker"
+      - link "Order Kit" [ref=e387] [cursor=pointer]:
+        - /url: "#checkout"
+    - paragraph: Fitment first • Vehicle-specific parts matched before fulfillment

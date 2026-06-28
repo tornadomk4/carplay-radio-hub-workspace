@@ -1,0 +1,7 @@
+carplayradiohub_site/node_modules/
+carplayradiohub_site/dist/
+carplayradiohub_site/.vite/
+research-tools/.venv/
+research/
+*.png
+*.log

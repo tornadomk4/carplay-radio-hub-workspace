@@ -1,0 +1,364 @@
+2026-06-28 02:54:00 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=693MB, qemu-system-x86_64-headless=424MB, Codex=353MB
+2026-06-28 02:55:00 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=683MB, qemu-system-x86_64-headless=401MB, Codex=354MB
+2026-06-28 02:56:00 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=732MB, Codex=368MB, qemu-system-x86_64-headless=318MB
+2026-06-28 02:57:01 | Free: 1.5GB / 7.9GB (81% used) | Top: node=673MB, Codex=372MB, Discord=307MB
+2026-06-28 02:58:01 | Free: 1.5GB / 7.9GB (81% used) | Top: node=692MB, Codex=367MB, Discord=305MB
+2026-06-28 02:59:01 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=787MB, qemu-system-x86_64-headless=371MB, Codex=367MB
+2026-06-28 03:00:01 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=724MB, Codex=367MB, Discord=306MB
+2026-06-28 03:01:01 | Free: 0.8GB / 7.9GB (89.9% used) | Top: qemu-system-x86_64-headless=1654MB, node=681MB, MsMpEng=234MB
+2026-06-28 03:02:02 | Free: 0.5GB / 7.9GB (93.7% used) | Top: qemu-system-x86_64-headless=2362MB, node=791MB, MsMpEng=229MB
+WARNING: 2026-06-28 03:03:02 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=2364MB, node=763MB, brave=417MB
+WARNING: 2026-06-28 03:04:03 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=2096MB, node=801MB, brave=328MB
+WARNING: 2026-06-28 03:05:03 | Free: 0.3GB / 7.9GB (96.2% used) | Top: qemu-system-x86_64-headless=2354MB, node=565MB, Codex=322MB
+2026-06-28 03:06:03 | Free: 0.6GB / 7.9GB (92.4% used) | Top: qemu-system-x86_64-headless=1893MB, node=724MB, Codex=351MB
+2026-06-28 03:07:03 | Free: 0.5GB / 7.9GB (93.7% used) | Top: qemu-system-x86_64-headless=1807MB, node=776MB, Codex=380MB
+WARNING: 2026-06-28 03:08:03 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=1820MB, node=801MB, Codex=363MB
+2026-06-28 03:09:03 | Free: 0.5GB / 7.9GB (93.7% used) | Top: qemu-system-x86_64-headless=1816MB, node=715MB, Codex=349MB
+2026-06-28 03:10:03 | Free: 0.5GB / 7.9GB (93.7% used) | Top: qemu-system-x86_64-headless=1905MB, node=685MB, Codex=341MB
+2026-06-28 03:11:04 | Free: 0.5GB / 7.9GB (93.7% used) | Top: qemu-system-x86_64-headless=1917MB, node=709MB, Codex=356MB
+WARNING: 2026-06-28 03:12:04 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=1922MB, node=734MB, Codex=353MB
+WARNING: 2026-06-28 03:13:04 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=1915MB, node=712MB, Codex=420MB
+2026-06-28 03:14:04 | Free: 0.5GB / 7.9GB (93.7% used) | Top: qemu-system-x86_64-headless=1881MB, node=593MB, Codex=402MB
+WARNING: 2026-06-28 03:15:04 | Free: 0.3GB / 7.9GB (96.2% used) | Top: qemu-system-x86_64-headless=1816MB, node=722MB, Codex=407MB
+WARNING: 2026-06-28 03:16:04 | Free: 0.3GB / 7.9GB (96.2% used) | Top: qemu-system-x86_64-headless=1611MB, node=763MB, Codex=433MB
+WARNING: 2026-06-28 03:17:04 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=1580MB, node=700MB, Codex=427MB
+2026-06-28 03:18:05 | Free: 0.5GB / 7.9GB (93.7% used) | Top: qemu-system-x86_64-headless=1415MB, node=652MB, qemu-system-x86_64-headless=440MB
+WARNING: 2026-06-28 03:19:05 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=1418MB, node=844MB, Codex=431MB
+WARNING: 2026-06-28 03:20:05 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=1415MB, node=736MB, qemu-system-x86_64-headless=435MB
+WARNING: 2026-06-28 03:21:05 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=1417MB, node=753MB, Codex=433MB
+WARNING: 2026-06-28 03:22:05 | Free: 0.3GB / 7.9GB (96.2% used) | Top: qemu-system-x86_64-headless=1404MB, node=825MB, Codex=429MB
+WARNING: 2026-06-28 03:23:05 | Free: 0.4GB / 7.9GB (94.9% used) | Top: qemu-system-x86_64-headless=1405MB, node=638MB, Codex=428MB
+2026-06-28 03:24:06 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=864MB, Codex=423MB, MsMpEng=261MB
+WARNING: 2026-06-28 03:25:07 | Free: 0.2GB / 7.9GB (97.5% used) | Top: qemu-system-x86_64-headless=1891MB, node=861MB, Codex=317MB
+2026-06-28 03:26:07 | Free: 2.9GB / 7.9GB (63.3% used) | Top: node=638MB, MsMpEng=226MB, brave=154MB
+2026-06-28 03:27:07 | Free: 2GB / 7.9GB (74.7% used) | Top: node=775MB, MsMpEng=308MB, Memory Compression=168MB
+2026-06-28 03:28:07 | Free: 1.8GB / 7.9GB (77.2% used) | Top: node=889MB, Memory Compression=324MB, MsMpEng=304MB
+2026-06-28 03:29:07 | Free: 1.9GB / 7.9GB (75.9% used) | Top: node=860MB, MsMpEng=303MB, Memory Compression=285MB
+2026-06-28 03:30:08 | Free: 1.8GB / 7.9GB (77.2% used) | Top: node=827MB, MsMpEng=307MB, Memory Compression=295MB
+2026-06-28 03:31:08 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=974MB, Codex=421MB, MsMpEng=299MB
+2026-06-28 03:32:08 | Free: 1.8GB / 7.9GB (77.2% used) | Top: node=828MB, Codex=421MB, MsMpEng=311MB
+2026-06-28 03:33:08 | Free: 1.8GB / 7.9GB (77.2% used) | Top: node=854MB, Codex=421MB, MsMpEng=312MB
+2026-06-28 03:34:08 | Free: 1.8GB / 7.9GB (77.2% used) | Top: node=882MB, Codex=421MB, MsMpEng=311MB
+2026-06-28 03:35:08 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=900MB, Codex=421MB, MsMpEng=315MB
+2026-06-28 03:36:08 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=888MB, Codex=427MB, MsMpEng=315MB
+2026-06-28 03:37:08 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=888MB, Codex=427MB, Memory Compression=320MB
+2026-06-28 03:38:08 | Free: 1.5GB / 7.9GB (81% used) | Top: node=903MB, Codex=427MB, Memory Compression=317MB
+2026-06-28 03:39:08 | Free: 1.5GB / 7.9GB (81% used) | Top: node=868MB, Codex=427MB, Memory Compression=314MB
+2026-06-28 03:40:09 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=876MB, Codex=426MB, MsMpEng=310MB
+2026-06-28 03:41:09 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=875MB, Codex=426MB, Memory Compression=314MB
+2026-06-28 03:42:09 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=874MB, Codex=419MB, Memory Compression=344MB
+2026-06-28 03:43:09 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=875MB, Codex=419MB, Memory Compression=341MB
+2026-06-28 03:44:09 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=875MB, Codex=419MB, Memory Compression=340MB
+2026-06-28 03:45:09 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=876MB, Codex=419MB, Memory Compression=344MB
+2026-06-28 03:46:09 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=877MB, Codex=419MB, Memory Compression=342MB
+2026-06-28 03:47:09 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=877MB, Codex=419MB, Memory Compression=340MB
+2026-06-28 03:48:09 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=873MB, Codex=418MB, Memory Compression=366MB
+2026-06-28 03:49:09 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=874MB, Codex=418MB, Memory Compression=364MB
+2026-06-28 03:50:10 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=875MB, Codex=418MB, Memory Compression=360MB
+2026-06-28 03:51:10 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=876MB, Codex=418MB, Memory Compression=349MB
+2026-06-28 03:52:10 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=877MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 03:53:10 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=877MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 03:54:10 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=878MB, Codex=418MB, Memory Compression=346MB
+2026-06-28 03:55:10 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=878MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 03:56:10 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=878MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 03:57:10 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=878MB, Codex=418MB, Memory Compression=348MB
+2026-06-28 03:58:10 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=879MB, Codex=418MB, Memory Compression=350MB
+2026-06-28 03:59:10 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=880MB, Codex=418MB, Memory Compression=349MB
+2026-06-28 04:00:10 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=881MB, Codex=418MB, Memory Compression=348MB
+2026-06-28 04:01:11 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=882MB, Codex=418MB, Memory Compression=348MB
+2026-06-28 04:02:11 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=883MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 04:03:11 | Free: 1.5GB / 7.9GB (81% used) | Top: node=883MB, Codex=418MB, Memory Compression=339MB
+2026-06-28 04:04:11 | Free: 1.5GB / 7.9GB (81% used) | Top: node=883MB, Codex=418MB, Memory Compression=339MB
+2026-06-28 04:05:11 | Free: 1.5GB / 7.9GB (81% used) | Top: node=883MB, Codex=418MB, Memory Compression=338MB
+2026-06-28 04:06:11 | Free: 1.5GB / 7.9GB (81% used) | Top: node=884MB, Codex=418MB, Memory Compression=340MB
+2026-06-28 04:07:11 | Free: 1.5GB / 7.9GB (81% used) | Top: node=884MB, Codex=418MB, Memory Compression=341MB
+2026-06-28 04:08:11 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=902MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 04:09:11 | Free: 1.5GB / 7.9GB (81% used) | Top: node=902MB, Codex=418MB, Memory Compression=353MB
+2026-06-28 04:10:11 | Free: 1.5GB / 7.9GB (81% used) | Top: node=902MB, Codex=418MB, Memory Compression=350MB
+2026-06-28 04:11:11 | Free: 1.5GB / 7.9GB (81% used) | Top: node=903MB, Codex=418MB, Memory Compression=348MB
+2026-06-28 04:12:12 | Free: 1.5GB / 7.9GB (81% used) | Top: node=902MB, Codex=418MB, Memory Compression=346MB
+2026-06-28 04:13:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=903MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 04:14:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=904MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 04:15:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=904MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:16:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=840MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:17:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=842MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:18:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=844MB, Codex=418MB, Memory Compression=342MB
+2026-06-28 04:19:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=845MB, Codex=418MB, Memory Compression=342MB
+2026-06-28 04:20:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=846MB, Codex=418MB, Memory Compression=341MB
+2026-06-28 04:21:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=846MB, Codex=418MB, Memory Compression=340MB
+2026-06-28 04:22:12 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=846MB, Codex=418MB, Memory Compression=340MB
+2026-06-28 04:23:13 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=846MB, Codex=418MB, Memory Compression=339MB
+2026-06-28 04:24:13 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=848MB, Codex=418MB, Memory Compression=339MB
+2026-06-28 04:25:13 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=848MB, Codex=418MB, Memory Compression=339MB
+2026-06-28 04:26:13 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=849MB, Codex=418MB, Memory Compression=339MB
+2026-06-28 04:27:13 | Free: 1.5GB / 7.9GB (81% used) | Top: node=849MB, Codex=417MB, Memory Compression=339MB
+2026-06-28 04:28:13 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=850MB, Codex=417MB, Memory Compression=344MB
+2026-06-28 04:29:13 | Free: 1.5GB / 7.9GB (81% used) | Top: node=851MB, Codex=417MB, Memory Compression=345MB
+2026-06-28 04:30:13 | Free: 1.5GB / 7.9GB (81% used) | Top: node=851MB, Codex=417MB, Memory Compression=344MB
+2026-06-28 04:31:13 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=852MB, Codex=417MB, Memory Compression=344MB
+2026-06-28 04:32:13 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=852MB, Codex=417MB, Memory Compression=342MB
+2026-06-28 04:33:13 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=853MB, Codex=417MB, Memory Compression=348MB
+2026-06-28 04:34:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=853MB, Codex=417MB, Memory Compression=347MB
+2026-06-28 04:35:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=853MB, Codex=417MB, Memory Compression=347MB
+2026-06-28 04:36:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=854MB, Codex=417MB, Memory Compression=347MB
+2026-06-28 04:37:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=855MB, Codex=417MB, Memory Compression=346MB
+2026-06-28 04:38:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=855MB, Codex=417MB, Memory Compression=346MB
+2026-06-28 04:39:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=856MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:40:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=857MB, Codex=418MB, Memory Compression=343MB
+2026-06-28 04:41:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=858MB, Codex=418MB, Memory Compression=343MB
+2026-06-28 04:42:14 | Free: 1.5GB / 7.9GB (81% used) | Top: node=858MB, Codex=418MB, Memory Compression=343MB
+2026-06-28 04:43:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=859MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:44:14 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=860MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:45:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=861MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:46:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=862MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:47:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=845MB, Codex=418MB, Memory Compression=343MB
+2026-06-28 04:48:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=845MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 04:49:15 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=846MB, Codex=418MB, Memory Compression=346MB
+2026-06-28 04:50:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=847MB, Codex=418MB, Memory Compression=346MB
+2026-06-28 04:51:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=848MB, Codex=418MB, Memory Compression=346MB
+2026-06-28 04:52:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=849MB, Codex=418MB, Memory Compression=346MB
+2026-06-28 04:53:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=849MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:54:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=850MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 04:55:15 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=851MB, Codex=418MB, Memory Compression=343MB
+2026-06-28 04:56:16 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=852MB, Codex=418MB, Memory Compression=343MB
+2026-06-28 04:57:16 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=852MB, Codex=418MB, Memory Compression=343MB
+2026-06-28 04:58:16 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=853MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 04:59:16 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=854MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:00:16 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=854MB, Codex=418MB, Memory Compression=356MB
+2026-06-28 05:01:16 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=854MB, Codex=419MB, Memory Compression=357MB
+2026-06-28 05:02:16 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=855MB, Codex=419MB, Memory Compression=356MB
+2026-06-28 05:03:16 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=856MB, Codex=419MB, Memory Compression=355MB
+2026-06-28 05:04:16 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=419MB, Memory Compression=350MB
+2026-06-28 05:05:16 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=419MB, Memory Compression=349MB
+2026-06-28 05:06:16 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=419MB, Memory Compression=347MB
+2026-06-28 05:07:17 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=419MB, Memory Compression=345MB
+2026-06-28 05:08:17 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=419MB, Memory Compression=345MB
+2026-06-28 05:09:17 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=419MB, Memory Compression=345MB
+2026-06-28 05:10:17 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=419MB, Memory Compression=345MB
+2026-06-28 05:11:17 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=859MB, Codex=419MB, Memory Compression=345MB
+2026-06-28 05:12:17 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=859MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:13:17 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=861MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:14:17 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=861MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:15:17 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=862MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:16:17 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=862MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:17:17 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=863MB, Codex=418MB, Memory Compression=343MB
+2026-06-28 05:18:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=863MB, Codex=418MB, Memory Compression=348MB
+2026-06-28 05:19:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=849MB, Codex=418MB, Memory Compression=348MB
+2026-06-28 05:20:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=850MB, Codex=418MB, Memory Compression=348MB
+2026-06-28 05:21:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=850MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 05:22:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=851MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 05:23:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=852MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 05:24:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=852MB, Codex=418MB, Memory Compression=347MB
+2026-06-28 05:25:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=853MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 05:26:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=854MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 05:27:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=854MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:28:18 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=854MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:29:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=856MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:30:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=856MB, Codex=418MB, Memory Compression=345MB
+2026-06-28 05:31:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=856MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 05:32:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=856MB, Codex=418MB, Memory Compression=344MB
+2026-06-28 05:33:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:34:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=396MB, Memory Compression=352MB
+2026-06-28 05:35:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=396MB, Memory Compression=352MB
+2026-06-28 05:36:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=396MB, Memory Compression=351MB
+2026-06-28 05:37:19 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=858MB, Codex=396MB, Memory Compression=359MB
+2026-06-28 05:38:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=396MB, Memory Compression=358MB
+2026-06-28 05:39:19 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=396MB, Memory Compression=357MB
+2026-06-28 05:40:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=396MB, Memory Compression=354MB
+2026-06-28 05:41:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=859MB, Codex=396MB, Memory Compression=354MB
+2026-06-28 05:42:20 | Free: 1.4GB / 7.9GB (82.3% used) | Top: node=860MB, Codex=396MB, Memory Compression=356MB
+2026-06-28 05:43:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=861MB, Codex=396MB, Memory Compression=356MB
+2026-06-28 05:44:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=861MB, Codex=396MB, Memory Compression=355MB
+2026-06-28 05:45:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=862MB, Codex=396MB, Memory Compression=355MB
+2026-06-28 05:46:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=862MB, Codex=396MB, Memory Compression=354MB
+2026-06-28 05:47:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=863MB, Codex=396MB, Memory Compression=354MB
+2026-06-28 05:48:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=864MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:49:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=864MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:50:20 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=849MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:51:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=850MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:52:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=851MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:53:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=852MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:54:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=853MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:55:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=853MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 05:56:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=853MB, Codex=395MB, Memory Compression=353MB
+2026-06-28 05:57:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=853MB, Codex=395MB, Memory Compression=354MB
+2026-06-28 05:58:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=854MB, Codex=395MB, Memory Compression=354MB
+2026-06-28 05:59:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=855MB, Codex=395MB, Memory Compression=354MB
+2026-06-28 06:00:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=855MB, Codex=395MB, Memory Compression=354MB
+2026-06-28 06:01:21 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=855MB, Codex=395MB, Memory Compression=354MB
+2026-06-28 06:02:22 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=856MB, Codex=395MB, Memory Compression=353MB
+2026-06-28 06:03:22 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=395MB, Memory Compression=355MB
+2026-06-28 06:04:22 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=395MB, Memory Compression=355MB
+2026-06-28 06:05:22 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=395MB, Memory Compression=355MB
+2026-06-28 06:06:22 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=395MB, Memory Compression=355MB
+2026-06-28 06:07:22 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=859MB, Codex=395MB, Memory Compression=355MB
+2026-06-28 06:08:22 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=859MB, Codex=395MB, Memory Compression=355MB
+2026-06-28 06:09:22 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=859MB, Codex=395MB, Memory Compression=354MB
+2026-06-28 06:10:22 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=859MB, Codex=395MB, Memory Compression=354MB
+2026-06-28 06:11:22 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=860MB, Codex=395MB, Memory Compression=354MB
+2026-06-28 06:12:22 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=861MB, Codex=395MB, Memory Compression=353MB
+2026-06-28 06:13:23 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=862MB, Codex=395MB, Memory Compression=353MB
+2026-06-28 06:14:23 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=863MB, Codex=395MB, Memory Compression=353MB
+2026-06-28 06:15:23 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=863MB, Codex=395MB, Memory Compression=353MB
+2026-06-28 06:16:23 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=864MB, Codex=395MB, Memory Compression=353MB
+2026-06-28 06:17:23 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=865MB, Codex=395MB, Memory Compression=353MB
+2026-06-28 06:18:23 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=865MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 06:19:23 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=865MB, Codex=396MB, Memory Compression=354MB
+2026-06-28 06:20:23 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=866MB, Codex=396MB, Memory Compression=354MB
+2026-06-28 06:21:23 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=866MB, Codex=396MB, Memory Compression=354MB
+2026-06-28 06:22:23 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=850MB, Codex=396MB, Memory Compression=354MB
+2026-06-28 06:23:24 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=850MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 06:24:24 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=851MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 06:25:24 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=852MB, Codex=396MB, Memory Compression=353MB
+2026-06-28 06:26:24 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=853MB, Codex=396MB, Memory Compression=363MB
+2026-06-28 06:27:24 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=852MB, Codex=396MB, Memory Compression=363MB
+2026-06-28 06:28:24 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=853MB, Codex=396MB, Memory Compression=362MB
+2026-06-28 06:29:24 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=854MB, Codex=396MB, Memory Compression=359MB
+2026-06-28 06:30:24 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=855MB, Codex=396MB, Memory Compression=359MB
+2026-06-28 06:31:24 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=855MB, Codex=396MB, Memory Compression=357MB
+2026-06-28 06:32:24 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=856MB, Codex=396MB, Memory Compression=356MB
+2026-06-28 06:33:24 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=856MB, Codex=364MB, Memory Compression=358MB
+2026-06-28 06:34:25 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=857MB, Codex=364MB, Memory Compression=356MB
+2026-06-28 06:35:25 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 06:36:25 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=857MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 06:37:25 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=858MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 06:38:25 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:39:25 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=859MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:40:25 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=859MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:41:25 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=859MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:42:25 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=860MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 06:43:25 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=861MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 06:44:26 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=861MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 06:45:26 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=861MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 06:46:26 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=862MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 06:47:26 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=863MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 06:48:26 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=864MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:49:26 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=864MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 06:50:26 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=865MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 06:51:26 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=865MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 06:52:26 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=866MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 06:53:26 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=867MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:54:26 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=850MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:55:27 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=851MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:56:27 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=851MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:57:27 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=851MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 06:58:27 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=852MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 06:59:27 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=853MB, Codex=364MB, Memory Compression=363MB
+2026-06-28 07:00:27 | Free: 1.3GB / 7.9GB (83.5% used) | Top: node=854MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:01:27 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:02:27 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Codex=363MB, Memory Compression=362MB
+2026-06-28 07:03:27 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Codex=363MB, Memory Compression=362MB
+2026-06-28 07:04:27 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Codex=363MB, Memory Compression=362MB
+2026-06-28 07:05:27 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Codex=363MB, Memory Compression=362MB
+2026-06-28 07:06:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Codex=363MB, Memory Compression=362MB
+2026-06-28 07:07:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Codex=363MB, Memory Compression=362MB
+2026-06-28 07:08:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Codex=363MB, Memory Compression=362MB
+2026-06-28 07:09:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=856MB, Codex=363MB, Memory Compression=361MB
+2026-06-28 07:10:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=857MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:11:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=857MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:12:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:13:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:14:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:15:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=859MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:16:28 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=859MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:17:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=860MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:18:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=861MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:19:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=861MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:20:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=862MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:21:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=863MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:22:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=863MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:23:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=864MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:24:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=864MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:25:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=864MB, Codex=364MB, Memory Compression=361MB
+2026-06-28 07:26:29 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=865MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:27:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=851MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:28:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=852MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:29:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=852MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:30:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=853MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:31:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=853MB, Codex=364MB, Memory Compression=362MB
+2026-06-28 07:32:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Memory Compression=383MB, MsMpEng=330MB
+2026-06-28 07:33:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Memory Compression=381MB, MsMpEng=336MB
+2026-06-28 07:34:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=854MB, Memory Compression=381MB, MsMpEng=330MB
+2026-06-28 07:35:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Memory Compression=380MB, MsMpEng=359MB
+2026-06-28 07:36:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Memory Compression=379MB, MsMpEng=334MB
+2026-06-28 07:37:30 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Memory Compression=386MB, MsMpEng=332MB
+2026-06-28 07:38:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Memory Compression=384MB, MsMpEng=337MB
+2026-06-28 07:39:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Memory Compression=384MB, MsMpEng=331MB
+2026-06-28 07:40:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Memory Compression=385MB, MsMpEng=342MB
+2026-06-28 07:41:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=855MB, Memory Compression=385MB, MsMpEng=333MB
+2026-06-28 07:42:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=856MB, Memory Compression=384MB, MsMpEng=335MB
+2026-06-28 07:43:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=856MB, Memory Compression=384MB, MsMpEng=335MB
+2026-06-28 07:44:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=856MB, Memory Compression=384MB, MsMpEng=330MB
+2026-06-28 07:45:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=856MB, Memory Compression=383MB, MsMpEng=330MB
+2026-06-28 07:46:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=857MB, Memory Compression=383MB, MsMpEng=335MB
+2026-06-28 07:47:31 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=857MB, Memory Compression=384MB, MsMpEng=335MB
+2026-06-28 07:48:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=383MB, MsMpEng=335MB
+2026-06-28 07:49:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=383MB, MsMpEng=336MB
+2026-06-28 07:50:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=383MB, MsMpEng=334MB
+2026-06-28 07:51:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=383MB, MsMpEng=330MB
+2026-06-28 07:52:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=383MB, MsMpEng=330MB
+2026-06-28 07:53:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=382MB, MsMpEng=335MB
+2026-06-28 07:54:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=382MB, MsMpEng=330MB
+2026-06-28 07:55:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=382MB, MsMpEng=330MB
+2026-06-28 07:56:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=383MB, MsMpEng=334MB
+2026-06-28 07:57:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, Memory Compression=383MB, MsMpEng=329MB
+2026-06-28 07:58:32 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=859MB, Memory Compression=383MB, MsMpEng=336MB
+2026-06-28 07:59:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=859MB, MsMpEng=357MB, Discord=296MB
+2026-06-28 08:00:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=860MB, MsMpEng=343MB, Discord=296MB
+2026-06-28 08:01:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=860MB, MsMpEng=342MB, Discord=296MB
+2026-06-28 08:02:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=861MB, MsMpEng=336MB, Discord=296MB
+2026-06-28 08:03:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=851MB, MsMpEng=352MB, Discord=296MB
+2026-06-28 08:04:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=341MB, Discord=296MB
+2026-06-28 08:05:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=341MB, Discord=296MB
+2026-06-28 08:06:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=341MB, Discord=296MB
+2026-06-28 08:07:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=336MB, Discord=296MB
+2026-06-28 08:08:33 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=348MB, Discord=296MB
+2026-06-28 08:09:34 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=343MB, Discord=296MB
+2026-06-28 08:10:34 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=339MB, Discord=296MB
+2026-06-28 08:11:34 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=341MB, Discord=296MB
+2026-06-28 08:12:34 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=852MB, MsMpEng=337MB, Discord=296MB
+2026-06-28 08:13:34 | Free: 1.5GB / 7.9GB (81% used) | Top: node=852MB, MsMpEng=342MB, Discord=296MB
+2026-06-28 08:14:34 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=858MB, MsMpEng=364MB, Discord=297MB
+2026-06-28 08:15:34 | Free: 1.1GB / 7.9GB (86.1% used) | Top: node=865MB, MsMpEng=363MB, Discord=297MB
+2026-06-28 08:16:34 | Free: 1.1GB / 7.9GB (86.1% used) | Top: node=865MB, MsMpEng=339MB, Discord=297MB
+2026-06-28 08:17:34 | Free: 1.1GB / 7.9GB (86.1% used) | Top: node=866MB, MsMpEng=343MB, Discord=297MB
+2026-06-28 08:18:34 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=866MB, MsMpEng=346MB, Discord=297MB
+2026-06-28 08:19:35 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=866MB, MsMpEng=346MB, Discord=297MB
+2026-06-28 08:20:35 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=866MB, MsMpEng=344MB, Discord=297MB
+2026-06-28 08:21:35 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=867MB, MsMpEng=345MB, Discord=297MB
+2026-06-28 08:22:35 | Free: 1.5GB / 7.9GB (81% used) | Top: node=733MB, MsMpEng=329MB, Discord=286MB
+2026-06-28 08:23:35 | Free: 1.5GB / 7.9GB (81% used) | Top: node=733MB, MsMpEng=335MB, Discord=286MB
+2026-06-28 08:24:35 | Free: 1.5GB / 7.9GB (81% used) | Top: node=733MB, MsMpEng=334MB, Discord=286MB
+2026-06-28 08:25:35 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=733MB, MsMpEng=329MB, Discord=286MB
+2026-06-28 08:26:35 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=733MB, MsMpEng=329MB, Discord=286MB
+2026-06-28 08:27:35 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=730MB, MsMpEng=330MB, Discord=286MB
+2026-06-28 08:28:35 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=730MB, MsMpEng=330MB, Discord=275MB
+2026-06-28 08:29:35 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=730MB, MsMpEng=331MB, Discord=276MB
+2026-06-28 08:30:36 | Free: 1.7GB / 7.9GB (78.5% used) | Top: node=730MB, MsMpEng=331MB, Discord=277MB
+2026-06-28 08:31:36 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=731MB, MsMpEng=329MB, Discord=278MB
+2026-06-28 08:32:36 | Free: 1.6GB / 7.9GB (79.7% used) | Top: node=736MB, MsMpEng=331MB, Discord=279MB
+WARNING: 2026-06-28 08:33:36 | Free: 0.4GB / 7.9GB (94.9% used) | Top: node=1114MB, node=717MB, Codex=435MB
+2026-06-28 08:34:36 | Free: 0.5GB / 7.9GB (93.7% used) | Top: node=1114MB, node=718MB, Codex=432MB
+2026-06-28 08:35:36 | Free: 0.7GB / 7.9GB (91.1% used) | Top: node=1114MB, node=719MB, Codex=432MB
+2026-06-28 08:36:36 | Free: 0.7GB / 7.9GB (91.1% used) | Top: node=1114MB, node=733MB, Codex=432MB
+2026-06-28 08:37:36 | Free: 1.2GB / 7.9GB (84.8% used) | Top: node=1114MB, node=758MB, Codex=420MB
+2026-06-28 08:38:36 | Free: 1.1GB / 7.9GB (86.1% used) | Top: node=1114MB, node=796MB, Codex=433MB
+2026-06-28 08:39:36 | Free: 0.9GB / 7.9GB (88.6% used) | Top: node=1114MB, node=802MB, Codex=423MB
+2026-06-28 08:40:37 | Free: 0.9GB / 7.9GB (88.6% used) | Top: node=1114MB, node=806MB, Codex=423MB
+2026-06-28 08:41:37 | Free: 0.8GB / 7.9GB (89.9% used) | Top: node=1114MB, node=807MB, Codex=423MB
+2026-06-28 08:42:37 | Free: 1GB / 7.9GB (87.3% used) | Top: node=1114MB, node=823MB, Codex=435MB
+2026-06-28 08:43:37 | Free: 0.9GB / 7.9GB (88.6% used) | Top: node=1114MB, node=824MB, Codex=444MB
+2026-06-28 08:44:37 | Free: 0.9GB / 7.9GB (88.6% used) | Top: node=1114MB, node=828MB, Codex=451MB
+2026-06-28 08:45:38 | Free: 0.8GB / 7.9GB (89.9% used) | Top: node=1032MB, node=828MB, Codex=451MB
+2026-06-28 08:46:38 | Free: 0.8GB / 7.9GB (89.9% used) | Top: node=1032MB, node=828MB, Codex=451MB
+2026-06-28 08:47:38 | Free: 0.7GB / 7.9GB (91.1% used) | Top: node=985MB, node=831MB, Codex=453MB
+2026-06-28 08:48:38 | Free: 0.7GB / 7.9GB (91.1% used) | Top: node=985MB, node=840MB, Codex=457MB
+2026-06-28 08:49:38 | Free: 0.7GB / 7.9GB (91.1% used) | Top: node=985MB, node=840MB, Codex=457MB
+2026-06-28 08:50:38 | Free: 0.7GB / 7.9GB (91.1% used) | Top: node=985MB, node=845MB, Codex=444MB
+2026-06-28 08:51:38 | Free: 0.7GB / 7.9GB (91.1% used) | Top: node=832MB, node=807MB, Codex=456MB
+2026-06-28 08:52:38 | Free: 0.9GB / 7.9GB (88.6% used) | Top: node=848MB, Codex=457MB, node=335MB
+2026-06-28 08:53:38 | Free: 1GB / 7.9GB (87.3% used) | Top: node=835MB, Codex=439MB, node=365MB
+2026-06-28 08:54:38 | Free: 0.7GB / 7.9GB (91.1% used) | Top: node=1186MB, Codex=439MB, MsMpEng=277MB
+2026-06-28 08:55:39 | Free: 0.8GB / 7.9GB (89.9% used) | Top: node=970MB, Codex=456MB, MsMpEng=269MB
+2026-06-28 08:56:39 | Free: 0.8GB / 7.9GB (89.9% used) | Top: node=972MB, Codex=464MB, node=263MB
+2026-06-28 08:57:39 | Free: 1.5GB / 7.9GB (81% used) | Top: node=707MB, Codex=476MB, brave=330MB
