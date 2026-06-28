@@ -8,15 +8,18 @@
 - [ ] Submit sitemap to Google Search Console
 - [ ] Submit sitemap to Bing Webmaster Tools
 
-### Day 2 — Instagram Reel #1
+### Day 2 — Instagram Reel #1 ✅ SCRIPT READY
 - **Hook:** "Your 2005 Jetta feels ancient? Watch this 30-second upgrade"
 - **Content:** Screen recording of CarPlay connecting + backup camera demo
+- **Script:** `docs/content-calendar/reel-01-script.md` (full shot-by-shot + caption + hashtags)
 - **Caption:** Link in bio to check fitment for your car
 - **Budget:** $10-20 test
+- **Status:** Script complete — ready to film and post
 
-### Day 3 — Blog Post: "Wireless vs Wired CarPlay"
-- Already written — add as standalone blog page
+### Day 3 — Blog Post: "Wireless vs Wired CarPlay" ✅ PUBLISHED
+- Article added to site Guides section as standalone guide page
 - Target keyword: "wireless vs wired carplay"
+- **Status:** Live on site — committed and pushed to GitHub
 
 ### Day 4 — Instagram Story Series
 - Before/after dash photos (when available)
