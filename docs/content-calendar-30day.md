@@ -1,68 +1,69 @@
-# 30-Day Content Calendar — @tornado_mk4
+# 30-Day Content Calendar — CarPlay Radio Hub
 
-## Week 1: Product Education
+## Week 1: Foundation Content (SEO Pillars)
 
-| Day | Type | Content Idea | Caption Hook |
-|-----|------|-------------|--------------|
-| Mon | Reel | Unboxing the CarPlay radio package | "Everything that comes in the box 📦" |
-| Tue | Story | Fitment checker demo | "Will it fit your car? Here's how to check in 10 seconds" |
-| Wed | Reel | Before/after: old radio → new CarPlay | "This 2005 Jetta just got a 2026 upgrade 🤯" |
-| Thu | Story | Customer DM Q&A compilation | "Questions I get asked every day about these radios" |
-| Fri | Reel | Wireless CarPlay connection demo | "No cables. No lag. Just tap and go 📱" |
-| Sat | Story | Behind-the-scenes: packing an order | "Same-day shipping hits different at midnight" |
-| Sun | Feed | Photo: installed dash view | "Clean OEM+ look. That's the goal." |
+### Day 1 (Today) — Blog Launch
+- [x] Add Guides section to site
+- [x] Publish 6 buying guides on site
+- [ ] Submit sitemap to Google Search Console
+- [ ] Submit sitemap to Bing Webmaster Tools
 
-## Week 2: Social Proof & Lifestyle
+### Day 2 — Instagram Reel #1
+- **Hook:** "Your 2005 Jetta feels ancient? Watch this 30-second upgrade"
+- **Content:** Screen recording of CarPlay connecting + backup camera demo
+- **Caption:** Link in bio to check fitment for your car
+- **Budget:** $10-20 test
 
-| Day | Type | Content Idea | Caption Hook |
-|-----|------|-------------|--------------|
-| Mon | Reel | Customer install compilation | "When the upgrade hits just right 🔥" |
-| Tue | Story | Reading customer reviews | "These DMs make it worth it" |
-| Wed | Reel | Road trip with CarPlay | "Turned my Jetta into a road trip machine" |
-| Thu | Story | Poll: "What car do you drive?" | Engagement bait |
-| Fri | Reel | Backup camera in action | "Backup camera included. Game changer for parallel parking 📷" |
-| Sat | Story | MK4 content + radio tie-in | "The MK4 that started it all + the upgrade that modernized it" |
-| Sun | Feed | Car meet / car show photo | "Clean cars, good vibes" |
+### Day 3 — Blog Post: "Wireless vs Wired CarPlay"
+- Already written — add as standalone blog page
+- Target keyword: "wireless vs wired carplay"
 
-## Week 3: Education & Comparison
+### Day 4 — Instagram Story Series
+- Before/after dash photos (when available)
+- Customer DM screenshots (with permission)
+- Fitment checker demo
 
-| Day | Type | Content Idea | Caption Hook |
-|-----|------|-------------|--------------|
-| Mon | Reel | "Why wireless CarPlay matters" | "One cable was all it took to ruin the vibe" |
-| Tue | Story | Common myths about aftermarket radios | "Myth vs. reality: aftermarket CarPlay" |
-| Wed | Reel | Installation walkthrough (timelapse) | "Full install in 60 seconds ⏱️" |
-| Thu | Story | Q&A: "Ask me anything about CarPlay radios" | Engagement |
-| Fri | Reel | Custom wallpapers & button lighting demo | "Make it yours — custom lighting and wallpapers 💡" |
-| Sat | Story | Packing orders + shipping updates | "Another batch going out today" |
-| Sun | Feed | Detail shot of the radio in dash | "The little details matter" |
+### Day 5 — Blog Post: "Top 5 Budget CarPlay Radios Under $150"
+- Affiliate angle: compare options, link to your product as best value
+- Target keyword: "best budget carplay radio"
 
-## Week 4: Conversion & Community
+### Day 6 — Reel #2
+- **Hook:** "POV: You just added CarPlay to your MK4 for $109"
+- **Content:** Driving POV showing CarPlay maps + music
+- **Budget:** $10-20 test
 
-| Day | Type | Content Idea | Caption Hook |
-|-----|------|-------------|--------------|
-| Mon | Reel | "Day in the life" with CarPlay | "POV: Your daily commute just got an upgrade" |
-| Tue | Story | Customer transformation stories | "From 2005 to 2026 in one weekend" |
-| Wed | Reel | Dolby Atmos / audio quality demo | "The sound quality surprised me 🎵" |
-| Thu | Story | Limited time sale announcement | "Sale ends soon — link in bio" |
-| Fri | Reel | MK4 Jetta + CarPlay = perfect combo | "Proof that older cars can still be daily drivers" |
-| Sat | Story | Weekend poll: "What should I film next?" | Community input |
-| Sun | Feed | Weekly recap + best-performing post | "Week 4 in the books. What a ride." |
+### Day 7 — Analytics Week 1
+- Check Google Search Console for impressions
+- Check Instagram reel performance
+- Check site traffic (if analytics installed)
+- Adjust Week 2 based on data
 
-## Hashtag Sets (rotate daily)
+## Week 2: Expansion
 
-**Set A (Product Focus):**
-#CarPlay #AndroidAuto #DoubleDIN #CarAudio #CarTech #WirelessCarPlay #CarUpgrade
+### Day 8 — Blog: "How to Install a Backup Camera"
+### Day 9 — Reel: Installation timelapse
+### Day 10 — Blog: "CarPlay for BMW E46/E90 Owners"
+### Day 11 — Story: Customer testimonial
+### Day 12 — Blog: "Adding Bluetooth to Older Cars"
+### Day 13 — Reel: "3 things nobody tells you about CarPlay radios"
+### Day 14 — Analytics Week 2
 
-**Set B (Car Culture):**
-#MK4 #Volkswagen #JettaGLI #EuropeanCar #CarBuild #CarCulture #OEMplus
+## Week 3: Authority Building
 
-**Set C (Lifestyle):**
-#CarLifestyle #DailyDriver #CarEnthusiast #ModifiedCars #CarCommunity #TornadoMK4
+### Day 15 — Blog: "CarPlay Radio vs Factory Navigation"
+### Day 16 — Reel: Side-by-side comparison
+### Day 17 — Blog: "Honda Civic CarPlay Upgrade Guide"
+### Day 18 — Story: Q&A session
+### Day 19 — Blog: "Best Car Upgrades Under $200"
+### Day 20 — Reel: "Why I started selling CarPlay radios"
+### Day 21 — Analytics Week 3
 
-## Content Rules
-- Film in vertical 9:16 for Reels
-- First 3 seconds must hook (visual or text)
-- Use trending audio when relevant
-- Always include CTA (link in bio, DM, or comment)
-- Post Reels between 11am-2pm or 7pm-9pm ET for best reach
-- Stories throughout the day (4-8/day minimum)
+## Week 4: Monetization Push
+
+### Day 22 — Blog: "Complete CarPlay Buying Guide 2026"
+### Day 23 — Reel: Best-performing content remake
+### Day 24 — Blog: "CarPlay Maintenance Tips"
+### Day 25 — Story: Limited-time offer
+### Day 26 — Blog: "Electric Vehicle? You Can Still Upgrade Your Radio"
+### Day 27 — Reel: Customer install compilation
+### Day 28 — Full Month Review + Month 2 Planning
